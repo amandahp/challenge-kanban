@@ -18,10 +18,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 </p>
 
 # Clone este repositório / Clone this repository
-$ git clone <https://github.com/amandahp/enterprise-search.git>
+$ git clone <https://github.com/amandahp/challenge-kanban>
 
 # Acesse a pasta do projeto no terminal/cmd / Access the project folder in the  cmd/terminal
-$ cd enterprise-search
+$ cd challenge-kanban
 
 # Instale as dependências / Install the dependencies
 $ npm install || yarn 
